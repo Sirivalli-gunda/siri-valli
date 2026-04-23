@@ -1,0 +1,18 @@
+.card{
+    font-family: Times New Roman;
+    text-align: center;
+    background-color: blueviolet;
+    height: 200px;
+}
+.head{
+    font-weight: 30px;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.btn{
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: beige;
+    color: rgb(1, 20, 20);
+}
